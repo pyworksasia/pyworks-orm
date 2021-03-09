@@ -1,21 +1,20 @@
 [tool.poetry]
-name = "orator"
-version = "0.9.9"
-description = "The Orator ORM provides a simple yet beautiful ActiveRecord implementation."
+name = "pyworks-orm"
+version = "1.0.0-alpha.1"
+description = "Pyworks ORM is a wrapper and other branch based on Orator ORM."
 
 license = "MIT"
 
 authors = [
-    "Sébastien Eustace <sebastien@eustace.io>"
+    "PyWorks Asia Team <opensource@pyworks.asia>"
 ]
 
 readme = 'README.rst'
 
-repository = "https://github.com/sdispater/orator"
-homepage = "https://orator-orm.com/"
+repository = "https://github.com/pyworksasia/pyworks-orm"
+homepage = "https://github.com/pyworksasia/pyworks-orm"
 
 keywords = ['database', 'orm']
-
 
 [tool.poetry.dependencies]
 python = "~2.7 || ^3.5"

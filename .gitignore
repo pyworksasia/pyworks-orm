@@ -8,7 +8,7 @@ build
 _build
 .cache
 venv
-
+venv*/
 # Installer logs
 pip-log.txt
 
